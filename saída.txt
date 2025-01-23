@@ -1,0 +1,6 @@
+Nome|Idade|Empresa|Aniversário
+Julia|20|Green Valley|2004-09-21
+Bizzi|19|Bar do Zé|2005-01-25
+Gabriel|20|Catolica|2004-10-13
+Pedro|26|Cafeteria do Zéca|1990-08-15
+Paulio|78|Barabearia Paulinhos|1932-05-17
